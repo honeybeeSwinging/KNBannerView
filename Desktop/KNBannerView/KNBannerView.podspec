@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   s.name         = "KNBannerView"
   s.version      = "1.0.1"
-  s.summary      = "A lightweight and beautiful banner for recycle and adapt rotate screen"
+  s.summary      = "A lightweight and beautiful banner for recycle and adapt rotate screen  "
 
   s.description  = <<-DESC
                    A lightweight and beautiful banner for recycle and adapt rotate screen
